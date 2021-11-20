@@ -1,26 +1,28 @@
-## Hey there! 👋 My name is Harsh Krishna
+# Hey there! 👋 My name is Harsh Krishna
 
 I am a 17 year old school student in New Delhi, India. When I’m not busy with school work, I spend my time all around obssessing over the sport of football.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshkrishna17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Programming Languages
+## Programming Languages
 
 - R (RStudio)
 
-### Tools & Technologies
+## Tools & Technologies
 
 - Tableau Public
 - Microsoft Excel
 - Git and GitHub (Version Control)
 
-### Data Skills
+## Data Skills
 
 - Data Visualization (ggplot2)
 - Data analysis (dplyr, tidyr)
 - Machine Learning (linear regression, k-means, GMM)
 
+
+## More about me
 
 - 🔭 I’m currently working on ggShakeR with Abhi A. Mishra
 - 🌱 I’m currently learning machine learning modelling in R
