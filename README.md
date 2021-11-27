@@ -11,7 +11,9 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 
 ## Tools & Technologies
 
+- VS Code
 - Tableau Public
+- RStudio
 - Microsoft Excel
 - Git and GitHub (Version Control)
 
