@@ -7,7 +7,7 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 
 ## Programming Languages
 
-- R (RStudio)
+- R
 
 ## Tools & Technologies
 
