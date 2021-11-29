@@ -21,7 +21,7 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 
 - Data Visualization (ggplot2)
 - Data analysis (dplyr, tidyr)
-- Machine Learning (linear regression, k-means, GMM)
+- Machine Learning (Linear regression, Random forest, k-means, GMM)
 
 
 ## More about me
