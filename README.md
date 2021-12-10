@@ -8,10 +8,12 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 ## Programming Languages
 
 - R
+- Python
 
 ## Tools & Technologies
 
 - VS Code
+- Jupyter Notebook
 - Tableau Public
 - RStudio
 - Microsoft Excel
@@ -22,7 +24,7 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 - Data Visualization (ggplot2)
 - Data analysis (dplyr, tidyr)
 - Machine Learning (Linear regression, Random forest, k-means, GMM)
-
+- Modelling (tidymodels)
 
 ## More about me
 
