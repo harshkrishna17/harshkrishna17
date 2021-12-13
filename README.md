@@ -2,7 +2,7 @@
 
 I am a 17 year old school student in New Delhi, India. When I’m not busy with school work, I spend my time all around obssessing over the sport of football.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshkrishna17&theme=onedark)(https://github.com/ryo-ma/github-profile
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshkrishna17&theme=onedark)
 
 ## Tools & Technologies
 
