@@ -4,10 +4,6 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshkrishna17&theme=onedark)](https://github.com/ryo-ma/github-profile
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkrishna17&show_icons=true&locale=en&layout=compact" alt="harshkrishna17" width="400" height="200"/>
-</p>
-
 ## Tools & Technologies
 
 - VS Code
@@ -23,6 +19,12 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 - Data analysis (dplyr, tidyr)
 - Machine Learning (Linear regression, Random forest, k-means, GMM)
 - Modelling (tidymodels)
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkrishna17&show_icons=true&locale=en&layout=compact" alt="harshkrishna17" width="400" height="200"/>
+</p>
+
 
 ## More about me
 
