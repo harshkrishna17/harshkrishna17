@@ -4,6 +4,11 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshkrishna17&theme=onedark)
 
+## Languages
+
+- R
+- Python
+
 ## Tools & Technologies
 
 - VS Code
