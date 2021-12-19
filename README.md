@@ -18,12 +18,17 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 - Microsoft Excel
 - Git and GitHub (Version Control)
 
-## Data Skills
+## R Skills
 
 - Data Visualization (ggplot2)
 - Data analysis (dplyr, tidyr)
 - Machine Learning (Linear regression, Random forest, k-means, GMM)
 - Modelling (tidymodels)
+
+## Python Skills
+
+- Data Visualization (matplotlib, seaborn)
+- Data analysis (pandas, numpy)
 
 
 <p align="center">
