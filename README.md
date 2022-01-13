@@ -31,6 +31,10 @@ I am a 17 year old school student in New Delhi, India. When I’m not busy with 
 - Data analysis (pandas, numpy)
 
 
+[![Harsh Krishna's github stats](https://github-readme-stats.vercel.app/api?username=harshkrishna17&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/harshkrishna17/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkrishna17&langs_count=8&hide_border=true&theme=monokai)](https://github.com/harshkrishna17)
+
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkrishna17&show_icons=true&locale=en&layout=compact" alt="harshkrishna17" width="400" height="200"/>
 </p>
