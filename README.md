@@ -32,7 +32,7 @@ I am a school student in India. When I’m not busy with school work, I spend my
 - Data Visualization (matplotlib, seaborn)
 - Data analysis (pandas, numpy)
 
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkrishna17&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkrishna17&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)
 
 ## More about me
 
