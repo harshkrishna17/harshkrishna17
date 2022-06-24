@@ -2,8 +2,6 @@
 
 I am a school student in India. When I’m not busy with school work, I spend my time all around obssessing over the sport of football.
 
-![Metrics](https://github.com/harshkrishna17/harshkrishna17/raw/master/github-metrics.svg)
-
 [![Harsh Krishna's github stats](https://github-readme-stats.vercel.app/api?username=harshkrishna17&show_icons=true&hide_border=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/harshkrishna17/) 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=harshkrishna17&theme=onedark)
